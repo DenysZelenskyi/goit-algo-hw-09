@@ -33,7 +33,6 @@ def find_min_coins(amount):
 
     return result
 
-# Example usage:
 amount = 100000000
 start_time = time.time()
 min_coins_result = find_min_coins(amount)
